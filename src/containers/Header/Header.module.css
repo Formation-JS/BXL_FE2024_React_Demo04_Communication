@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 231, 235);
+    height: 3rem;
+    padding-left: 2ch;
+    padding-right: 2ch;
+    align-items: center;
+    border-bottom: 0.1ch solid crimson;
+
+    p {
+        margin: 0;
+        font-size: 1.3em;
+        color: crimson;
+    }
+}
